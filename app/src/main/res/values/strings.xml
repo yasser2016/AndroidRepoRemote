@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Network Database</string>
+
+
+    <string name="site_name">Site Name</string>
+    <string name="site_code">Site Code</string>
+    <string name="launch_date">Launch Date</string>
+    <string name="site_id">Site ID</string>
+
+    <string name="menuItem_edit">Edit</string>
+    <string name="menuItem_delete">Delete</string>
+    <string name="menuItem_insert">Insert</string>
+    <string name="site_list_empty">Site List</string>
+
+
+    <string name="label_sites">Sites</string>
+
+    <string name="menu_edit_title">Add Mission</string>
+    <string name="menu_delete_title">Delete Mission</string>
+    <string name="menu_lookup">Lookups</string>
+
+    <string name="confirm_title_site">Are You Sure?</string>
+    <string name="confirm_message_site">This will permanently delete the Site With All Related Missions</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+    <string name="site_delete">Delete Site</string>
+    <string name="site_update">Update</string>
+    <string name="search_hint">Search Site</string>
+    <string name="empty_list">Category List</string>
+    <string name="empty_sites_list">Sites List</string>
+
+    <string name="label_tags">MTN Tags</string>
+    <string name="label_lookup">Lookup List</string>
+    <string name="label_add_tags">Add Tags</string>
+    <string name="label_add_site">Add Site</string>
+    <string name="label_update_site">Site Update</string>
+
+    <string name="spinner_title">Select Gen No.</string>
+
+    <string name="menu_pdf">Print PDF</string>
+    <string name="pdf_sites">Sites PDF</string>
+    <string name="pdf_missions">Missions PDF</string>
+    <string name="pdf_fuel_fill">Fuel Fill PDF</string>
+    <string name="pdf_all_sites">All Sites</string>
+    <string name="menu_pdf2_ext">Print PDF(SD)</string>
+    <string name="menu_pdf2_int">Print PDF(Int)</string>
+    <string name="info">Info</string>
+
+    <string name="tag_date">Date</string>
+    <string name="tag_prefix">Tag Prefix</string>
+    <string name="tag_middle">Tag Middle</string>
+    <string name="tag_suffix">Tag Suffix</string>
+    <string name="equ_cat">Category</string>
+    <string name="equ_type">Type</string>
+    <string name="equ_manufacturer">Manufacturer</string>
+    <string name="equ_serial">Serial No.</string>
+    <string name="time_stamp">Time Stamp</string>
+    <string name="patch_tag">Patch Tag</string>
+    <string name="no_of_tags">No Of Tags</string>
+    <string name="search">Search</string>
+    <string name="lookup">Lookup Values</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="menu_pdfEquipment">Print Pdf</string>
+    <string name="insert_failed">Insert equipment failed</string>
+
+
+    <string name="site_exist">You Can Not Add Site Twice </string>
+    <string name="site_numbers">Total Number of Sites : </string>
+
+    <string name="confirm_title">Are You Sure?</string>
+    <string name="confirm_message_lookup">This will permanently delete the lookup entries</string>
+
+
+    <string name="confirm_message_equ">This will permanently delete the site equipment data</string>
+
+
+    <string name="pull_database">PULL DATABASE</string>
+    <string name="import_database">Import Database</string>
+    <string name="about">About</string>
+    <string name="about_message">Network Database \nVersion 1.0 \nCreated By :
+            \nYasser Alqadhi \nEmail : \nYalqathi@hotmail.com \nMobile : \n00 967 733110042
+            \nYear : 03/2017</string>
+    <string name="dialog_confirm">Save Or Save and Dismiss</string>
+    <string name="dialog_message">Click No to save only \nOr Yes to save and open activity again</string>
+
+    <string name="facebook_app_id">193632507805487</string>
+
+</resources>
